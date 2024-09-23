@@ -7,6 +7,6 @@ VroomVroom allows you to store files inside Minecraft, using Shulkers (chunks) a
 Now, you may be asking, "who needs or wants this?". No one! Dumbass!
 
 ## Credits:
-- [@sparkkily: Gave me the max lore size, gave me motivation to even make this.](https://github.com/Sparkkilyy)
+- [@sparkkily: Gave me the max lore size, gave me motivation to even make this.](https://github.com/Sparkkily)
 - [@ErickHatesBMC: Gave me motivation to make this.](https://github.com/ErickHatesBMC)
 - [@BBicchio: emotional support from the multiple mental breakdowns i had making this project](https://github.com/BBicchio)
