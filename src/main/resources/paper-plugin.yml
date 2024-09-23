@@ -1,0 +1,8 @@
+name: VroomVroom
+version: '1.0'
+main: lol.anekodot.vroomVroom.Main
+api-version: '1.21'
+prefix: VroomVroom
+authors: [ ripples1253 ]
+description: Kill me, please.
+website: https://anekodot.lol
